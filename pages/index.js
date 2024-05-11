@@ -13,7 +13,7 @@ export default function Home({ breeds = [] }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Amplify Hosting Test</title>
+        <title>******Amplify Hosting Test</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
