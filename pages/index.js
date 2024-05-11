@@ -18,7 +18,7 @@ export default function Home({ breeds = [] }) {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Amplify Hosting Test App</h1>
+        <h1 className={styles.title}>*****Amplify Hosting Test App</h1>
         <br />
         <select>
           {breedList.map((breed) => (
